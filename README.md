@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**shanto2575/shanto2575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌿 About Me :
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
+Building full-stack web applications using Next.js, React & Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking to collaborate on
+Modern web projects, especially frontend-heavy or SaaS-based applications
+
+🆘 I’m looking for help with
+Advanced backend architecture & scalable system design
+
+🌱 I’m currently learning
+Deep dive into JavaScript fundamentals, Next.js App Router, and backend development
+
+💬 Ask me about
+React, Tailwind CSS, JavaScript basics, and UI design
+
+⚡ Fun fact
+I enjoy turning simple ideas into beautiful and meaningful web experiences 🚀
+
+
