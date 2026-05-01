@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://portfolio-uicc.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantosharma/)
 
 </div>
@@ -123,7 +123,7 @@ while (isAwake) {
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://portfolio-uicc.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantosharma/)
 
 </div>
