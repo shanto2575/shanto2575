@@ -26,48 +26,48 @@ while (isAwake) {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Play Store</h3>
+<h3 align="center">The Daily News</h3>
 <div align="center">  
-<a href="https://play-store-pearl.vercel.app/" target="_blank">
-<img src="https://i.ibb.co.com/spf8jqt7/5496fe6b-865c-45b6-830d-9a66887146a2.png" width="50%" alt="Play Store"/>
+<a href="https://the-daily-news-five.vercel.app" target="_blank">
+<img src="https://i.ibb.co.com/HDrc6Xcp/the-Daily-News.png" width="50%" alt="The Daily News"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/shanto2575/Play-Store" target="_blank">
+<a href="https://github.com/shanto2575/The-Daily-News" target="_blank">
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://play-store-pearl.vercel.app/" target="_blank">
+<a href="https://the-daily-news-five.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
 <p align="left">
-• Built real-world projects<br>
-• API fetch<br>
-• React • React Router • Tailwind CSS • Context API • Vite • Vercel
+• Nextjs<br>
+• Better Authentication<br>
+• REST API
 </p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">keepkeener</h3>
+<h3 align="center">TileCarft</h3>
 <div align="center">  
-<a href="https://keep-keepers.vercel.app/" target="_blank">
-<img src="https://i.ibb.co.com/4H4phGR/Screenshot-2026-04-17-103218.png" width="50%" alt="keepkeener"/>
+<a href="https://tile-craft.vercel.app" target="_blank">
+<img src="https://i.ibb.co.com/8n17j7rr/Tile-Carft.png" width="50%" alt="TileCarft"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/shanto2575/KeenKeeper" target="_blank">
+<a href="https://github.com/shanto2575/TileCraft" target="_blank">
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://keep-keepers.vercel.app/" target="_blank">
+<a href="https://tile-craft.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
 <p align="left">
-• Built real-world projects<br>
-• Add & manage friends,  Track communication history,  Sort & filter timeline , Responsive & fast UI<br>
-• React • React Router • Tailwind CSS • Context API • Vite • Vercel
+• Nextjs<br>
+• Better Auth And Google , Github SignIn<br>
+• REST API
 </p>
 </div>
 </td>
