@@ -100,8 +100,8 @@ while (isAwake) {
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=📊%20GitHub%20Stats&fontSize=40&color=0:32CD32,100:006400&stroke=006400)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanto2575&show_icons=true&theme=graywhite" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanto2575&layout=compact&theme=graywhite" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shanto2575&show_icons=true&theme=default&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanto2575&layout=compact&theme=default" height="170"/>
 </div>
 
 <div align="center">
