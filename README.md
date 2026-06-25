@@ -22,57 +22,50 @@ while (isAwake) {
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-<!-- Featured Projects Section -->
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">The Daily News</h3>
-<div align="center">  
-<a href="https://the-daily-news-five.vercel.app" target="_blank">
-<img src="https://i.ibb.co.com/HDrc6Xcp/the-Daily-News.png" width="50%" alt="The Daily News"/>
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/shanto2575/The-Daily-News" target="_blank">
-<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://the-daily-news-five.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-<p align="left">
-• Nextjs<br>
-• Better Authentication<br>
-• REST API
-</p>
-</div>
+---
+
+<!-- PROJECTS SECTION -->
+## 📂 Featured Enterprise Projects
+
+<table width="100%">
+  <tr>
+   <td width="50%" valign="top">
+
+  <h3>AIverse — AI Prompt Sharing Platform</h3>
+
+  <p>
+   AIverse is a modern AI prompt-sharing platform where users can explore, save,
+    review, and manage prompts with premium access and secure authentication.
+  </p>
+
+  <p>
+     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </p>
+
+  <p>
+    <a href="https://aiverse-client-rose.vercel.app" target="_blank">
+      <strong>🔗  Live Demo </strong>
+    </a>
+  </p>
+
 </td>
-<td width="50%">
-<h3 align="center">TileCarft</h3>
-<div align="center">  
-<a href="https://tile-craft.vercel.app" target="_blank">
-<img src="https://i.ibb.co.com/8n17j7rr/Tile-Carft.png" width="50%" alt="TileCarft"/>
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/shanto2575/TileCraft" target="_blank">
-<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://tile-craft.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-<p align="left">
-• Nextjs<br>
-• Better Auth And Google , Github SignIn<br>
-• REST API
-</p>
-</div>
-</td>
-</tr>
+    <td width="50%" valign="top">
+      <h3>📈 AI-Powered Analytics Dashboard</h3>
+      <p>A real-time metrics layout pulling raw application telemetries and processing insights cleanly with specialized API endpoints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
+      </p>
+      <a href="https://github.com/Programing360/typescript-basic-learn" target="_blank"><strong>🔗 View Repository</strong></a>
+    </td>
+  </tr>
 </table>
+
+---
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
 
