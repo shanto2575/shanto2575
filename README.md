@@ -48,69 +48,6 @@ while (isAwake) {
 </p>
 </div>
 </td>
-  # 📰 The Daily News
-
-<div align="center">
-  
-  <!-- PROJECT BANNER -->
-  <a href="https://the-daily-news-five.vercel.app" target="_blank">
-    <img src="https://i.ibb.co.com/HDrc6Xcp/the-Daily-News.png" width="60%" alt="The Daily News Banner" style="border-radius: 12px; box-shadow: 0 4px 25px rgba(0,0,0,0.15);"/>
-  </a>
-
-  <p align="center">
-    A modern, high-performance Full-Stack News Portal built with the Next.js App Router, secured via Better Auth, and powered by optimized REST APIs.
-  </p>
-
-  <!-- BADGES -->
-  <p align="center">
-    <a href="https://github.com/shanto2575/The-Daily-News" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://the-daily-news-five.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    </a>
-  </p>
-
-  <!-- TECH PILLS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Better_Auth-78541c?style=flat&logo=blueprint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HeroUI-FF4081?style=flat&logo=react&logoColor=white"/>
-  </p>
-
-</div>
-
----
-
-## ⚡ Core Features
-
-* **Dynamic Content Engine**: Sever-side rendered (SSR) and optimized articles fetching via Next.js Route Handlers.
-* **Edge-Ready Authentication**: Advanced session management, login, and signup workflows powered securely by **Better Auth**.
-* **Premium UX/UI Matrix**: Fully responsive layout designed with **Tailwind CSS** and modern interactive components from **HeroUI**.
-* **Robust REST API Middleware**: Secure endpoint pipelines ensuring seamless data transactions across protected paths.
-
----
-
-## 🛠️ Tech Stack & Architecture
-
-| Layer | Technology Used |
-| :--- | :--- |
-| **Framework** | Next.js (App Router) |
-| **Auth System** | Better Auth Engine |
-| **Styling & UI** | Tailwind CSS + HeroUI Component Matrix |
-| **State & Fetching** | REST API Routing / Native Fetch |
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to run the workspace matrix locally:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/shanto2575/The-Daily-News.git](https://github.com/shanto2575/The-Daily-News.git)
-cd The-Daily-News
 <td width="50%">
 <h3 align="center">TileCarft</h3>
 <div align="center">  
