@@ -53,14 +53,14 @@ while (isAwake) {
 
 </td>
     <td width="50%" valign="top">
-      <h3>📈 AI-Powered Analytics Dashboard</h3>
-      <p>A real-time metrics layout pulling raw application telemetries and processing insights cleanly with specialized API endpoints.</p>
+      <h3>DriveFleet Car Rental Platform!</h3>
+      <p>DriveFleet is a full-stack car rental platform where users can explore available cars, book vehicles, manage bookings, and add their own car listings. It includes secure authentication, JWT-protected routes, search and filter functionality, booking count tracking, and a fully responsive modern UI for a smooth user experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
       </p>
-      <a href="https://github.com/Programing360/typescript-basic-learn" target="_blank"><strong>🔗 View Repository</strong></a>
+      <a href="https://drive-fleet-car.vercel.app" target="_blank"><strong>🔗 Live Demo </strong></a>
     </td>
   </tr>
 </table>
