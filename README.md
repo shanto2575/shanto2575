@@ -135,6 +135,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto2575&theme=graywhite" alt="GitHub Streak" height="170"/>
 </div>
+
+---
+
 ## 📈 Activity Graph
 
 <p align="center">
