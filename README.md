@@ -1,26 +1,45 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20shanto%20sharma%20😊👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=55&descAlign=50)
 
-<div align="center">
+<!-- ABOUT ME SECTION -->
+## 🧑‍💻 About Me
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://portfolio-uicc.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantosharma/)
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a passionate <strong>Web Developer</strong> based in <strong>Bangladesh</strong>, dedicated to engineering robust, high-performance web applications. Combining clean semantic markup with contemporary runtime performance, I structure scalable applications across the full stack ecosystem.</p>
+      <p>As an active industry job seeker, I treat software engineering as an art form—prioritizing clean architecture, comprehensive database design, and intuitive user patterns.</p>
+      <ul>
+        <li>📍 <strong>Location:</strong> Bangladesh</li>
+        <li>🔭 <strong>Current Role:</strong> Junior Full Stack Web Developer (Open to Work)</li>
+        <li>🌱 <strong>Deep Diving Into:</strong> Advanced Next.js paradigms, State Architecture, and Prompt Engineering</li>
+        <li>🎯 <strong>Career Goal:</strong> Drive business values at scale as an elite Full-Stack System Architect</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
-</div>
+---
 
-<details>
-<summary><h2>🤞 My Promise</h2></summary>
+<!-- SOCIAL LINKS SECTION -->
+## 🌐 Connect With Me
 
-```java
-while (isAwake) {
-    code();
-    learn();
-    create();
-    repeat();
-}
-```
-</details>
-
-![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shantosharma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/shanto2575" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/shanto.sharma.2575" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shanto2575@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
