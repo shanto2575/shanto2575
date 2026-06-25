@@ -107,6 +107,19 @@ while (isAwake) {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanto2575&theme=graywhite" alt="GitHub Streak" height="170"/>
 </div>
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Programing360&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 <h2 align="center">💡 Random Dev Quote</h2>
 
